@@ -20,7 +20,7 @@ document.querySelectorAll(".menu li").forEach(el => {
         smoothScrollTo("#accommodation");
         closeMenu();
         break;
-      case "restaurant":
+      case "restaurants":
         smoothScrollTo("#accommodation");
         closeMenu();
         break;
